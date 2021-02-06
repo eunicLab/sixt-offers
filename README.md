@@ -1,15 +1,15 @@
-# Sixt offers web app
+# Sixt-offers web app
 
 -- external frameworks and libraries used --
 
 # Bootstrap
 
-This was chosen because it is an easy to use framework for building responsive applications with its many customizable components which saves time.
+This was chosen because it is an easy to use framework for building responsive applications with its many customizable components that saves time.
 
 # React-testing-library
 
-This was chosen because it focuses on the user's perspective and avoides implementation details. This makes it easy to write test that are maintainable. It makes it possible to write tests that require little or no refactoring when changes are made to the component codes.
+This was chosen because It focuses on the user's perspective and avoids implementation details. Tests are maintainable and require little or no change when refactoring component codes.
 
 # Redux
 
-This was used in accordance with the requirement for the task. Its effortless style for managing state and transfering data between components makes this suitable for complex enterprise applications. Redux will come in handy as the app grows in complexity.
+This was used following the requirement for the task. Its effortless style for managing state and transferring data between components makes this suitable for complex enterprise applications. Redux will come in handy as the app grows in complexity.
