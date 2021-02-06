@@ -3,7 +3,7 @@
 }
 .allOffers {
   text-align: center;
-  margin: 2%;
+  margin-left: 3.5vw;
 }
 .errorMessage {
   margin: 2%;
@@ -19,7 +19,7 @@
   height: 30vw;
   float: left;
   font-size: 1vw;
-  margin: 1%;
+  margin: 0.5vw;
 }
 
 .card-footer {

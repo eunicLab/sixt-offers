@@ -28,7 +28,7 @@ let AllOffers = ({ url }) => {
   ));
 
   return (
-    <div className='App'>
+    <div>
       <div className='jumbotron text-center'>
         <img className='logo' src={logo} alt='logo' />
       </div>
