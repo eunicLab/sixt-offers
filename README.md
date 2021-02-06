@@ -2,7 +2,7 @@
 
 -- external frameworks and libraries used --
 
-# Bootstrap:
+# Bootstrap
 
 This was chosen because it is an easy to use framework for building responsive applications with its many customizable components which saves time.
 
