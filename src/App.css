@@ -1,0 +1,54 @@
+.logo {
+  width: 15vw;
+}
+.allOffers {
+  text-align: center;
+  margin: 2%;
+}
+.errorMessage {
+  margin: 2%;
+  font-size: 3vw;
+  text-align: center;
+}
+.noDisplay {
+  display: none;
+}
+
+.card {
+  width: 30vw;
+  height: 30vw;
+  float: left;
+  font-size: 1vw;
+  margin: 1%;
+}
+
+.card-footer {
+  border-top: none;
+  background-color: white;
+}
+.price {
+  margin-right: 0.3em;
+}
+
+@media (max-width: 630px) {
+  .logo {
+    width: 25vw;
+  }
+  .card {
+    width: 45vw;
+    height: 45vw;
+    font-size: 1.5vw;
+  }
+}
+
+@media (max-width: 425px) {
+  .logo {
+    width: 30vw;
+  }
+  .card {
+    width: 90vw;
+    height: 90vw;
+    margin-bottom: 2vh;
+    font-size: 2vw;
+  }
+}
